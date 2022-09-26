@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for a job as Junior Data Analyst
 - 🌱 I’m currently learning more about Sklearn phython library and Streamlit (https://streamlit.io/)
 - 💬 Ask me about Latin American food
-- ⚡ My currebnt goal is to read at least one book per month 
+- ⚡ My current goal is to read at least one book per month 
 
 <!--
 **DanielRianos/DanielRianos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
