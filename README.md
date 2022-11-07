@@ -2,7 +2,7 @@
 
 ### I am a Business and Data Analyst passionate about numbers and problems solving in collaborative environments. I’m eager to continue pursuing my passion for data.
 
-- 🔭 I’m currently looking for a job as Junior Data Analyst
+- 🔭 I’m currently looking for a job as Junior Business | Data Analyst
 - 🌱 I’m currently learning more about Sklearn phython library and Streamlit (https://streamlit.io/)
 - 💬 Ask me about Latin American food
 - ⚡ My current goal is to read at least one book per month 
