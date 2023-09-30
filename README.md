@@ -1,6 +1,6 @@
-### Hi there, I am Daniel 👋
+## Hi there, I am Daniel 👋
 
-### I am a Business and Data Analyst passionate about numbers and problems solving in collaborative environments. I’m eager to continue pursuing my passion for data.
+I am a Business and Data Analyst passionate about numbers and problems solving in collaborative environments. I’m eager to continue pursuing my passion for data.
 
 - 🌱 I’m currently learning more about Sklearn phython library and Streamlit (https://streamlit.io/)
 - 💬 Ask me about Latin American food
